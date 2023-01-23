@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Manrope:wght@800&family=Open+Sans&family=Work+Sans&display=swap');
+
+body{
+    font-family: 'EB Garamond', serif;
+}
+.logo{
+    width: 40px;
+}
+.nav-text{
+    color: #707070;
+}
+.btn-custom{
+    background-color: #B68C5A;
+    color: #fff;
+}
