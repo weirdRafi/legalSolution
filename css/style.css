@@ -32,7 +32,7 @@ body{
     transform: translateX(-50%);
     text-align: center;
 }
-.para{
+.para-1{
     font-size: 16px;
     color: #E7E7E7;
 }
@@ -42,5 +42,45 @@ body{
     border-radius: 10px;
     margin-right: 10px;
     padding: 20px;
+}
 
+/* leagal area  */
+
+.para-2{
+    color: #707070;
+    font-size: 16px;
+}
+.arrow{
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: #B68C5A;
+    border-radius: 50%;
+    padding-top: 8px;
+}
+.middle{
+    background: #F5F5F5;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 576px) {
+    .banner-header{
+        font-size: 26px;
+    }
+    .banner-titles{
+        top: 0;
+    }
+    .banner-form{
+        width: 200px;
+        height: 45px;
+    }
 }
